@@ -1,2 +1,7 @@
-# demo-branto-cafe
-Demo web para BRANTO Cafe — diseñada por eterlab.
+# BRANTO Cafe
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
